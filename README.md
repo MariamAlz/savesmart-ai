@@ -4,7 +4,7 @@
 
 Forecasting code for the SaveSmart app, uploaded by a teammate. It trains an LSTM model (Keras) on hourly power-use data and forecasts power use for the next week. The repo also has a script that reads live power from a smart plug.
 
-Part of the SaveSmart senior design project. See also the [Xamarin app prototype](https://github.com/MariamAlz/SaveSmart). The team's final app, which runs a version of this pipeline, is in [SaveSmart-App](https://github.com/MariamAlz/SaveSmart-App).
+Part of the SaveSmart senior design project. See also the [Xamarin app prototype](https://github.com/MariamAlz/savesmart-prototype). The team's final app, which runs a version of this pipeline, is in [savesmart-app](https://github.com/MariamAlz/savesmart-app).
 
 ## Features
 
